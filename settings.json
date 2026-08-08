@@ -8,7 +8,7 @@
   "server": {
     "ip": "majnrp.aternos.me:49336",
     "port": 27586,
-    "version": 1.21.11,
+    "version": 1.21,
     "try-creative": false
   },
   "position": {
